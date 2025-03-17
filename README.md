@@ -17,3 +17,21 @@ none
 [название ссылки](https://exp.com)
 
 ![aknthyfnbdysq ntrcn](https://ex.com/image.png)
+
+```bash
+вставляем код
+```
+
+> цитата
+
+| afqks b gfgrb 1 | index.html 2 |
+|-------------|-------------|
+| squere 1    | squere 2    |
+| squere 3    | squere 4    |
+
+- [Обзор проекта](обзор-проекта)
+- [устагновка](установка)
+
+  ## Обзор проекта
+  боедловпрлдопкд
+  # Установка
