@@ -1,0 +1,14 @@
+body {
+    font-size: 16px;
+}
+
+.order-contain {
+    max-width: 11rem;
+    padding: 15px;
+    border: 2px black solid;
+}
+
+.name .phone .e-mail {
+    display: flex;
+    justify-content: center;
+}
